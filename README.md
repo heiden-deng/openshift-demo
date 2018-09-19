@@ -1,0 +1,2 @@
+# openshift-demo
+演示通过openshift-rest-api和httpcomponents组件请求Openshift服务
